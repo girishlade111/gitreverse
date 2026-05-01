@@ -1,6 +1,6 @@
 # GitReverse
 
-https://github.com/user-attachments/assets/f0cdb7b2-c6f0-4483-8a01-153170479f2e
+
 
 Turn a **public GitHub repository** into a **single synthetic user prompt** that someone might paste into Cursor, Claude Code, Codex, etc. to vibe code the project from scratch.
 
