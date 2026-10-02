@@ -230,3 +230,6 @@ Shout out to [GitIngest](http://github.com/coderamp-labs/gitingest) for inspirat
 ---
 
 <p align="center">Made with ❤️ by Girish Lade</p>
+---
+
+Built by [Girish Lade](https://ladestack.in).
